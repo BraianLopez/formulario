@@ -1,2 +1,2 @@
-# formulario
- actividad core 1 formulario
+# formulario de registro
+ Actividad core 1 formulario
